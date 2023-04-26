@@ -1,5 +1,5 @@
 import React from "react";
-import banner from "../Images/Banner.jpg";
+import banner from "../Images/about banner.jpg";
 import waiter1 from "../Images/restorent img/waiter one.jpg";
 import restorent1 from "../Images/restorent img/restorent one.jpg";
 import waiter2 from "../Images/restorent img/waiter two.jpg";
